@@ -83,7 +83,6 @@ The dataset contains residential property listings across multiple sectors in Gu
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 
