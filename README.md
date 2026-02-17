@@ -87,15 +87,6 @@ The dataset contains residential property listings across multiple sectors in Gu
 * Seaborn
 
 
-## Project Structure
-
-Gurgaon-Real-Estate-Analysis/
--README.md
--data.csv
--main.py
-
-
-
 ## How to Run
 
 1. Clone the repository
